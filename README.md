@@ -38,4 +38,7 @@ Given an MRI scan, the model predicts the tumor category with a probability dist
 ## Author
 - **Name**: Mantesh Mahesh Redekar
 - **Contact**: manteshredekar1@gmail.com
+## Creadits
+- **Name**: Shreenivas Bhakoji
+
 
